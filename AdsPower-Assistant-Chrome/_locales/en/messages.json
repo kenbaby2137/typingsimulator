@@ -1,0 +1,17 @@
+{
+  "ext_name": {
+    "message": "AdsPower Assistant"
+  },
+  "ext_description": {
+    "message": "AdsPower Assistant is a browser extension for managing multiple accounts and automating tasks, ensuring efficiency and security."
+  },
+  "ext_paste_auto": {
+    "message": "Paste as human typing"
+  },
+  "ext_copy": {
+    "message": "Copy to unique Clipboard"
+  },
+  "ext_paste": {
+    "message": "Paste from unique Clipboard"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ext_name": {
+    "message": "AdsPower助手"
+  },
+  "ext_description": {
+    "message": "AdsPower助手是一款专为多账号管理与网页自动化操作设计的浏览器扩展工具，帮助用户更高效、安全地完成各类任务。"
+  },
+  "ext_paste_auto": {
+    "message": "仿真粘贴"
+  },
+  "ext_copy": {
+    "message": "复制至独立剪贴板"
+  },
+  "ext_paste": {
+    "message": "从独立剪贴板粘贴"
+  }
+}
